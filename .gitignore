@@ -1,0 +1,10 @@
+/.idx
+/.venv
+/Kanji.csv
+/app.py
+/furigana.ipynb
+/kanji.ipynb
+/kanji_classifier_model.h5
+/output.png
+/requirements.txt
+/templates
